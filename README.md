@@ -2,7 +2,7 @@
 
 I build gameplay systems for Unreal Engine games, then make them run fast.
 
-Three titles shipped on Steam since 2021, across five studios. Blueprint and C++, multiplayer, VR, and the profiling and optimisation work that follows. I started in level design and lighting and moved toward systems as the projects got bigger, so I'm comfortable on either side of that conversation.
+In Unreal Engine since 2018. Three titles shipped on Steam, across five studios. Blueprint and C++, multiplayer, VR, and the profiling and optimisation work that follows. I started in level design and lighting and moved toward systems as the projects got bigger, so I'm comfortable on either side of that conversation.
 
 ## Shipped
 
