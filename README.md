@@ -24,7 +24,7 @@ Next up: a VR comfort component and a frame-budget checklist for Quest and PC VR
 
 ## Elsewhere
 
-- Portfolio: coming soon
+- [Portfolio](https://bryanmaillet.com)
 - [LinkedIn](https://www.linkedin.com/in/bryanmaillet/)
 - [Upwork](https://www.upwork.com/freelancers/~01b90dd8047cd8198e): 100% Job Success across 536 hours of client work
 - Email: Bfufu@protonmail.com
