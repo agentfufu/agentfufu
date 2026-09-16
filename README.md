@@ -18,7 +18,7 @@ Most of my work is studio projects under other people's names, so it isn't mine 
 
 What is here:
 
-- **portfolio**: my site. Plain HTML, CSS and JavaScript, no build step, plus the Python and Node tools that generate its images and sitemap.
+- [**portfolio**](https://github.com/agentfufu/portfolio): my site. Plain HTML, CSS and JavaScript, no build step, plus the Python and Node tools that generate its images and sitemap.
 
 Next up: a VR comfort component and a frame-budget checklist for Quest and PC VR, both pulled from the shipped work.
 
