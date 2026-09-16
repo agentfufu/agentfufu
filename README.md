@@ -14,15 +14,13 @@ Three titles shipped on Steam since 2021, across five studios. Blueprint and C++
 
 ## What's here
 
-Most of my work is studio projects under other people's names, so it isn't mine to publish. What is here are small, self-contained Unreal pieces, each one a thing I end up building on most projects:
+Most of my work is studio projects under other people's names, so it isn't mine to publish. The three games above are the best record of it.
 
-- [InventorySystemUE5BP](https://github.com/agentfufu/InventorySystemUE5BP): interface-driven inventory, items and weapons as pickups
-- [HealthSystemUE5BP](https://github.com/agentfufu/HealthSystemUE5BP): health and damage through one interface, with screen feedback
-- [BasicCameraMovementUE5-BP-](https://github.com/agentfufu/BasicCameraMovementUE5-BP-): runtime camera switching, possession and shake
-- [Day-NightCycleUE5](https://github.com/agentfufu/Day-NightCycleUE5): configurable day and night cycle
+What is here:
+
 - **portfolio**: my site. Plain HTML, CSS and JavaScript, no build step, plus the Python and Node tools that generate its images and sitemap.
 
-Next up: VR comfort settings and a frame-budget checklist for Quest and PC VR, pulled from the shipped work.
+Next up: a VR comfort component and a frame-budget checklist for Quest and PC VR, both pulled from the shipped work.
 
 ## Elsewhere
 
